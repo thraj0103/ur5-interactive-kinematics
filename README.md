@@ -117,7 +117,7 @@ python ur5_kinematics.py
 
 ## Code Structure
 
-All code in single file `ur5_kinematics.py` (~760 lines):
+All code in a single file `ur5_kinematics.py`:
 
 **5 Modular Classes:**
 1. `UR5Robot` - Robot state and forward kinematics
