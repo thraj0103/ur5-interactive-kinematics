@@ -4,6 +4,14 @@
 
 A 6-DOF UR5 robot kinematics simulator with analytical forward kinematics, Newton's method inverse kinematics, trajectory generation, and real-time 3D visualization.
 
+## Video Demonstration
+
+[![UR5 Kinematics Simulator Demo](https://img.youtube.com/vi/M5NVXSnEazY/0.jpg)](https://youtu.be/M5NVXSnEazY)
+
+**Watch the video:** [https://youtu.be/M5NVXSnEazY](https://youtu.be/M5NVXSnEazY)
+
+The video shows real-time execution of square and helical trajectories followed by interactive keyboard-driven manipulation.
+
 ---
 
 ## Project Overview
